@@ -1,8 +1,12 @@
 
 ## Hi there 👋
+
 ---
+
 ## My name is Ramazan. I’m frontend developer.
+
 ---
+
 ## Language and tools
 ![JavaScript](https://img.shields.io/badge/-javascript-5D5C61?style=for-the-badge&logo=javascript) 
 ![React](https://img.shields.io/badge/-react-282828?style=for-the-badge&logo=react) 
